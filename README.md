@@ -28,6 +28,7 @@ http://maven.apache.org/download.cgi
   Hit the enter key.
   type or Copy into termainal or window:
       mvn clean test -DsiteUrl=https://autoblog.truecar.com/nc/homepage -Dmake=Lincoln -Dmodel=MKS -Dyear=2015 -Dstyle="3.5L EcoBoost AWD" -Dzip=90401 -Ddriver=firefox
+
 -------------------------------------------
 
 #View Results
