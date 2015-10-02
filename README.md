@@ -23,17 +23,11 @@ http://maven.apache.org/download.cgi
 
 -----------------------------------------
 #How to execute a specific test
-- open a terminal or command line: 
-
-- cd into the dir of the test Example: cd Documents/TrueCar
-
-- Hit the enter key.
-
-- type or Copy into termainal or window:
-
-mvn clean test -DsiteUrl=https://autoblog.truecar.com/nc/homepage -Dmake=Lincoln -Dmodel=MKS -Dyear=2015 -Dstyle="3.5L EcoBoost 
-AWD" -Dzip=90401 -Ddriver=firefox
-
+  open a terminal or command line: 
+  cd into the dir of the test Example: cd Documents/TrueCar
+  Hit the enter key.
+  type or Copy into termainal or window:
+      mvn clean test -DsiteUrl=https://autoblog.truecar.com/nc/homepage -Dmake=Lincoln -Dmodel=MKS -Dyear=2015 -Dstyle="3.5L EcoBoost AWD" -Dzip=90401 -Ddriver=firefox
 -------------------------------------------
 
 #View Results
