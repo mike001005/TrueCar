@@ -38,7 +38,7 @@ http://maven.apache.org/download.cgi
 #View Results
   cd into the dir of the test Example: cd Documents/TrueCar/target/surefire-reports
   
-  open any test file
+  open any text file
 
 -------------------------------------------
 
@@ -49,9 +49,13 @@ http://maven.apache.org/download.cgi
 
 #Future Enhancements
   Add more Dirvers
+    
     chrome
+    
     phantomjs
+    
     IE
+  
   Add a way to randomly add multiple options
 
 
