@@ -6,12 +6,14 @@ http://maven.apache.org/download.cgi
 
 
 ----Configuration-----------------------
+
 -- Url: Url for the Test
 -- Make: Make of the Car
 -- Model: Model of the Car
 -- Year: Year of the Car
 -- Style: Style of the Car
 -- Zip: ZipCode for the test
+
 -- Driver: firefox
 
 
